@@ -5,3 +5,5 @@ AGENTS.md
 postgres/
 .cursor
 package.json
+config.bat
+node_modules
